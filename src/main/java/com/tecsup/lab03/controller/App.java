@@ -8,10 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-<<<<<<< HEAD
+
         System.out.println( "Proyecto de Quesada y Cristopher" );
-=======
+
         System.out.println( "Making git on student controller" );
->>>>>>> refs/heads/sprint-2
+
     }
 }
